@@ -1,4 +1,4 @@
-# You want to help us grow Koding to 1 Million Users
+# You will help Koding reach 1 Million Users
 
 Yes, that's your assignment, if you accept, read on.
 
@@ -60,20 +60,20 @@ However, if you do want to hear back, tell me,
 
 Short emails work the best. Your links should tell your story, not your email.
 
-           ,--.                                                     
-       ,--/  /|                                                     
-    ,---,': / '               ,---,  ,--,                           
-    :   : '/ /   ,---.      ,---.'|,--.'|         ,---,             
-    |   '   ,   '   ,'\     |   | :|  |,      ,-+-. /  |  ,----._,. 
-    '   |  /   /   /   |    |   | |`--'_     ,--.'|'   | /   /  ' / 
-    |   ;  ;  .   ; ,. :  ,--.__| |,' ,'|   |   |  ,"' ||   :     | 
-    :   '   \ '   | |: : /   ,'   |'  | |   |   | /  | ||   | .\  . 
-    |   |    ''   | .; :.   '  /  ||  | :   |   | |  | |.   ; ';  | 
-    '   : |.  \   :    |'   ; |:  |'  : |__ |   | |  |/ '   .   . | 
-    |   | '_\.'\   \  / |   | '/  '|  | '.'||   | |--'   `---`-'| | 
-    '   : |     `----'  |   :    :|;  :    ;|   |/       .'__/\_: | 
-    ;   |,'              \   \  /  |  ,   / '---'        |   :    : 
-    '---'                 `----'    ---`-'                \   \  /  
-                                                           `--`-'   
+```                                                       
+ _|    _|                  _|  _|                      
+ _|  _|      _|_|      _|_|_|      _|_|_|      _|_|_|  
+ _|_|      _|    _|  _|    _|  _|  _|    _|  _|    _|  
+ _|  _|    _|    _|  _|    _|  _|  _|    _|  _|    _|  
+ _|    _|    _|_|      _|_|_|  _|  _|    _|    _|_|_|  
+                                                 _|  
+   code, share, have fun!                      _|_|    
+```
+
+[Koding is PUBLIC](http://blog.koding.com/2013/08/koding-is-public/)
+[Koding Culture](http://blog.koding.com/2012/06/we-want-to-date-not-hire/)
+[PandoDaily](http://pandodaily.com/2013/08/09/koding-launches-to-make-programming-as-easy-as-hailing-a-cab/)
+[Techcrunch Private Beta Launch](http://techcrunch.com/2012/07/24/koding-launch/)
+[Techcrunch Funding](http://techcrunch.com/2012/12/20/koding-7-25m-matrix-partners/) 
 
 [inspiration http://www.aginnt.com/growth-hacker](http://www.aginnt.com/growth-hacker)
