@@ -81,5 +81,3 @@ Geraint
 [Techcrunch, Private Beta Launch](http://techcrunch.com/2012/07/24/koding-launch/)
 
 [Techcrunch, Funding](http://techcrunch.com/2012/12/20/koding-7-25m-matrix-partners/) 
-
-[Inspiration, http://www.aginnt.com/growth-hacker](http://www.aginnt.com/growth-hacker)
