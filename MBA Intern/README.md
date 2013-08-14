@@ -1,11 +1,13 @@
 ### Field Study Opportunity with Koding & Greycroft Partners
 
-Greycroft Partners (early-stage VC invested in Klout, Buddy Media, Trunk Club, Baublebar, Pulse, AwesomenessTV, Maker Studios etc) is conducting a field project in conjunction with Koding, one of their most exciting portfolio companies based out of Silicon Valley.  The field project would work well for 2nd year field studies and independent studies (3.0 units).  Please take a look at the following descriptions and if you are interested kindly contact Jason Yeh (MBA 2012) at jason@greycroft.com.  (The deadline to submit field project requests to HBS for class credit is September 6, so act fast!)
+Greycroft Partners is conducting a field project in conjunction with Koding, one of the firm's most exciting portfolio companies based out of Silicon Valley.  The field project would work well for 2nd year field studies and independent studies (3.0 units).  Please take a look at the following descriptions and if you are interested kindly contact Jason Yeh (MBA 2012) at jason@greycroft.com.  (The deadline to submit field project requests to HBS for class credit is September 6, so act fast!)
 
 ### Project Description:
 
 Koding has spent over 2 years heads down developing the most advanced, cloud-based, collaborative development environment on the market.  On August 7, 2013, Koding launched their platform publicly with their CEO shifting his focus away from technology development towards new strategic and customer acquisition initiatives.  This transition has brought on the first non-technical, business hires into the company with an eye on and expectation of explosive growth.
+
 In conjunction with this shift in focus, Koding/Greycroft is hosting a field study for 2-3 business school students interested in gaining experience in strategy and operations for a high growth technology startup as it works through an array of strategic initiatives.  Students will work directly with the Koding CEO and executive team as well as investors from Greycroft to develop and execute plans around marketing, customer acquisition, and strategic partnerships.  This work will include market research, data analysis, customer research, and presentations to relevant stakeholders throughout the course of the semester.
+
 In addition to regular check-ins with the Koding/Greycroft teams, students will be flown to the Koding offices for a kickoff meeting in September and a final presentation in November presentation.
 
 ### Qualifications:
@@ -23,6 +25,7 @@ Koding is a developer community and cloud development environment where develope
 
 ### About Greycroft
 Greycroft Partners is a leading early stage venture capital firm focused on investments in digital media. With offices in the two media capitals of the world - New York and Los Angeles – Greycroft is uniquely positioned to serve entrepreneurs who have chosen us as their partners. We leverage our extensive network of media and technology industry connections to help our entrepreneurs gain visibility, build strategic relationships, successfully bring their products to market, and build successful businesses. 
-Greycroft manages $400MM and has made over seventy-five investments in leading companies including Huffington Post, Buddy Media, Maker Studio, Babble, Collective Media and Klout. In 2013 Greycroft companies will generate $1B of revenue and employ 3,000 people. We have a deep respect for the role that entrepreneurship and venture capital play in the world economy, and are committed to learning from both success and failure.  
+
+Greycroft manages $400MM and has made over seventy-five investments in leading companies including Huffington Post, Buddy Media, Maker Studios, Collective Media, AwesomenessTV, Pulse and Klout. In 2013 Greycroft companies will generate $1B of revenue and employ 3,000 people. We have a deep respect for the role that entrepreneurship and venture capital play in the world economy, and are committed to learning from both success and failure.  
 
 
