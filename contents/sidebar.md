@@ -3,6 +3,7 @@ view: none
 ---
 
 
+- [Home](/jobs/)
 - [Koding.com](https://koding.com)
 
 #### Jobs
