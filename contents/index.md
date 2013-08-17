@@ -1,6 +1,5 @@
 ---
 title: Koding Jobs
-contributors: [andygold, danielway, gemmalynn, leeolayvar, stefancosma]
 template: index.jade
 ---
 

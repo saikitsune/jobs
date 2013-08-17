@@ -1,3 +1,8 @@
+---
+title: Growth Hacker
+template: job.jade
+---
+
 # You will help Koding reach 1 Million Users
 
 Yes, that's your assignment, if you accept, read on.

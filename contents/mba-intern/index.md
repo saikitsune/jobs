@@ -1,3 +1,8 @@
+---
+title: MBA Intern
+template: job.jade
+---
+
 ### Field Study Opportunity with Koding & Greycroft Partners
 
 Greycroft Partners is conducting a field project in conjunction with Koding, one of the firm's most exciting portfolio companies based out of Silicon Valley.  The field project would work well for 2nd year field studies and independent studies (3.0 units).  Please take a look at the following description and if you are interested contact Jason Yeh (MBA 2012) at jason@greycroft.com.  

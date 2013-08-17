@@ -1,3 +1,8 @@
+---
+title: Systems Guru
+template: job.jade
+---
+
 # You will help Koding keep humming and innovating while we reach 1 Million Users
 
 Yes, that's a lot of weight to put on your shoulders - but dont worry you will be sharing the load with the rest of us.

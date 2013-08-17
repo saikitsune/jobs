@@ -8,6 +8,6 @@ view: none
 #### Jobs
 
 - [Growth Hacker](growth-hacker/)
-- [Growth Hacker](growth-hacker/)
-- [Growth Hacker](growth-hacker/)
+- [MBA Intern](mba-intern/)
+- [Systems Guru](systems-guru/)
 
