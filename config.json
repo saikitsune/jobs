@@ -1,0 +1,27 @@
+{
+  "baseUrl": "/jobs/",
+  "locals": {
+    "baseUrl": "/jobs/",
+    "url": "http://koding.github.io/jobs/",
+    "name": "Koding Jobs",
+    "owner": "Koding",
+    "description": "Koding Jobs"
+  },
+  "plugins": [
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "marked": {
+    "anchors": true
+  }
+}

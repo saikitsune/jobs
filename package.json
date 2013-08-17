@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "koding-jobs",
+  "description": "A Koding Jobs listing.",
+  "author": "leeolayvar <leeolayvar@gmail.com> (http://leeolayvar.kd.io)",
+  "scripts": {
+    "build": "node ./node_modules/.bin/wintersmith build",
+    "preview": "node ./node_modules/.bin/wintersmith preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/koding/jobs.git"
+  },
+  "bugs": {
+    "url": "http://github.com/koding/jobs/issues"
+  },
+  "devDependencies": {
+    "moment": "2.x",
+    "underscore": "1.4.x",
+    "typogr": "0.5.x",
+    "marked": "git://github.com/leeolayvar/marked.git#heading-ids",
+    "wintersmith": "~2.0.5"
+  },
+  "dependencies": {}
+}
