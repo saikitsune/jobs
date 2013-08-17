@@ -10,13 +10,7 @@ block prepend title
 block header
   h1= page.title
 
-block about
-
 block content
   article.article
     section.content
-      //- The actual content of the page is not printed for the jobs, we
-      //- simply print the about.md message.
-      //-!= typogr(page.html).typogrify()
-      !=contents['about.md'].html
-
+      != typogr(page.html).typogrify()
