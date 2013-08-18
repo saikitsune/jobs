@@ -1,16 +1,24 @@
-# Backend Engineer
+---
+title: Backend Engineer
+template: job.jade
+---
 
-We are building a system that we all gonna say `good bye to localhost`. Sounds cool? We want to grow faster with your help!
 
-### About you,
+# Goodbye to Localhost
 
-* Understanding of Computer Science concepts e.g, OOP, data structures and algorithms.
+We are building a system that we all gonna say *"good bye to localhost"*.
+Sounds cool? We want to grow faster with your help!
+
+## About you,
+
+* Understanding of Computer Science concepts e.g, OOP, data structures and
+algorithms.
 
 * You are a poet while coding, your code should look like a poem.
 
 * You love what you do.
 
-### Your technology stack should consist,
+## Your technology stack should consist,
 
 * Experience with Git or other SCM tools
 
@@ -24,9 +32,10 @@ We are building a system that we all gonna say `good bye to localhost`. Sounds c
 
 * Basic linux knowledge
 
-### Ok, sound good?
+## Ok, sound good?
 
-Then let us to see your poems in which `required technology stack` is used with providing a link to any of the followings
+Then let us to see your poems in which *"required technology stack"* is used
+with providing a link to any of the followings:
 
 * Github repos.
 
@@ -36,7 +45,7 @@ Then let us to see your poems in which `required technology stack` is used with 
 
 Reach us at backend-dev at koding dot com
 
-##### As you can understand from this readme this is a serious job, no laugh! :)
+**As you can understand from this readme this is a serious job, no laugh! :)**
 
 [Koding](http://koding.com)
 
