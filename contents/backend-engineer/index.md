@@ -4,10 +4,10 @@ template: job.jade
 ---
 
 
-# Goodbye to Localhost
+# Saying Goodbye to Localhost
 
-We are building a system that we all gonna say *"good bye to localhost"*.
-Sounds cool? We want to grow faster with your help!
+We are building a system that will allow everyone to say *"goodbye to
+localhost"*. Sound cool? We want to achieve this faster with your help!
 
 ## About you,
 
@@ -34,7 +34,7 @@ algorithms.
 
 ## Ok, sound good?
 
-Then let us to see your poems in which *"required technology stack"* is used
+Then show us your code-poems in which the *required technology stack* is used,
 with providing a link to any of the followings:
 
 * Github repos.
@@ -44,8 +44,6 @@ with providing a link to any of the followings:
 * Your blog.
 
 Reach us at backend-dev at koding dot com
-
-**As you can understand from this readme this is a serious job, no laugh! :)**
 
 [Koding](http://koding.com)
 
