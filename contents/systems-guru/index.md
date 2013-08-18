@@ -73,16 +73,6 @@ Reach me at my geraint at koding dot com.
 
 \- Geraint
 
-```
- _|    _|                  _|  _|
- _|  _|      _|_|      _|_|_|      _|_|_|      _|_|_|
- _|_|      _|    _|  _|    _|  _|  _|    _|  _|    _|
- _|  _|    _|    _|  _|    _|  _|  _|    _|  _|    _|
- _|    _|    _|_|      _|_|_|  _|  _|    _|    _|_|_|
-                                                   _|
-   code, share, have fun!                      _|_|
-```
-
 [Koding is PUBLIC](http://blog.koding.com/2013/08/koding-is-public/)
 
 [Koding Culture](http://blog.koding.com/2012/06/we-want-to-date-not-hire/)
