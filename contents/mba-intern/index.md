@@ -28,7 +28,8 @@ In addition to regular check-ins with the Koding/Greycroft teams, students will 
 * Deep respect for entrepreneurship and startup hustle
 
 ## Details
-Please submit a resume, cover letter, and short writing sample (blog post, essays, school papers all ok) to jason@greycroft.com
+Please submit a resume, cover letter, and short writing sample *(blog post,
+essays, school papers all ok)* to <jason@greycroft.com>.
 
 ## About Koding
 Koding is a developer community and cloud development environment where developers come together and code in the browser-- with a real development server to run their code. Developers can work, collaborate, write and run apps without jumping through hoops and spending unnecessary money.
