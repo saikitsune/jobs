@@ -3,61 +3,69 @@ title: Growth Hacker
 template: job.jade
 ---
 
-# You will help Koding reach 1 Million Users
+# Reaching 1 Million Users
 
-Yes, that's your assignment, if you accept, read on.
+You are to help Koding each 1 Million Users. Yes, that's your assignment.
+If you accept, read on.
 
-### You promise,
+## You promise,
 
-* You can make Koding grow with the most creative hacking abilities without spam
+* You can make Koding grow with the most creative hacking abilities,
+without spamming.
 
-* You will make sure you're not only getting new users, you're improving the platform so that they are happy to stay
+* You will make sure that you're not only getting new users, but that you're
+also improving the platform so that they are happy to stay.
 
-* You can hack things, write small scripts or work with people who can
+* You can hack things, write small scripts or work with people who can.
 
-* You know who your audience is because you are/were one of them
+* You know who your audience is because you are/were one of them.
 
-* You have necessary connections to pull strings
+* You have necessary connections to pull strings.
 
-* Your network is awesome, you know people at Google, Facebook, Techcrunch and other relevant places
+* Your network is awesome, you know people at Google, Facebook, Techcrunch
+and other relevant places.
 
-* You know where should we be promoted and how - you can make it happen
+* You know where should we be promoted and how - you can make it happen.
 
-* You know partnering up with HP is so 90's, supporting .NET is not the best idea, Coldfusion is history
+* You know partnering up with HP is so 90's, supporting .NET is not the best
+idea, Coldfusion is history.
 
-* You will suggest meaningful UX - so that we can convert better
+* You will suggest meaningful UX - so that we can convert better.
 
-* You will manage community
+* You will manage community.
 
-* You will find ways to increase traction, analyze cohorts - be on top of Mixpanel
+* You will find ways to increase traction, analyze cohorts - be on top of
+Mixpanel.
 
-### Your profile
+## Your profile
 
-* You find growth strategies that are scalable and repeatable 
+* You find growth strategies that are scalable and repeatable.
 
-* Your methods are driven by product and inspired by data
+* Your methods are driven by product and inspired by data.
 
-* You can write code
+* You can write code.
 
-* You can write blog posts
+* You can write blog posts.
 
-* You can say "fuck this shit" in public ([see Zed Shaw - he's awesome](https://vimeo.com/43380467))
+* You can say "fuck this shit" in public ([see Zed Shaw - he's awesome](https://vimeo.com/43380467)).
 
-* You can look beyond adwords or SEO 
+* You can look beyond adwords or SEO.
 
-* You know why we exist, craft viral strategies easy
+* You know why we exist, craft viral strategies easy.
 
-* You are ethical, you don't make fake twitter followers, nor increase user counts just to make yourself look better
+* You are ethical, you don't make fake twitter followers, nor increase
+user counts just to make yourself look better.
 
-* You can fire yourself if you are not performing well
+* You can fire yourself if you are not performing well.
 
-* You know who Noah Kagan, Andrew Chen are, you can do what they did
+* You know who Noah Kagan, Andrew Chen are, you can do what they did.
 
 ## Ok, sound good?
 
-This job is not for everyone, if you don't hear from me it's because I get a lot of emails, and  saying "Sorry" shouldn't be necessary
+This job is not for everyone. If you don't hear from me it's because
+I get a lot of emails and  saying "Sorry" shouldn't be necessary.
 
-However, if you do want to hear back, tell me,
+However, if you do want to hear back, tell me:
 
 * One or two ideas that convinces me that you can deliver
 
@@ -65,9 +73,9 @@ However, if you do want to hear back, tell me,
 
 Short emails work the best. Your links should tell your story, not your email.
 
-Reach me at my name at koding dot com
+Reach me at my name at koding dot com.
 
-Devrim
+\- Devrim
 
 ```                                                       
  _|    _|                  _|  _|                      
