@@ -11,16 +11,17 @@ localhost"*. Sound cool? We want to achieve this faster with your help!
 
 ## About you,
 
-* Understanding of Computer Science concepts e.g, OOP, data structures and
+* Understanding of Computer Science concepts. e.g, OOP, data structures and
 algorithms.
 
-* You are a poet while coding, your code should look like a poem.
+* You are a poet while coding. In other words, your  code should look like a
+poem.
 
 * You love what you do.
 
-## Your technology stack should consist,
+## You should have experience with,
 
-* Experience with Git or other SCM tools
+* Git or other SCM tools
 
 * Build and Continuous Integration tools
 
@@ -28,14 +29,15 @@ algorithms.
 
 * Messaging Systems (RabbitMQ or ØMQ)
 
-* Fluent in any of the programming languages ( preferably CoffeeScript or Go )
+* Fluent in any of the programming languages (preferably CoffeeScript or Go)
 
 * Basic linux knowledge
 
 ## Ok, sound good?
 
-Then show us your code-poems in which the *required technology stack* is used,
-with providing a link to any of the followings:
+If this sounds like the right position for you, then show us some of your
+code in which some or all of the above technology stacks are used, along with
+links to any of the following:
 
 * Github repos.
 
