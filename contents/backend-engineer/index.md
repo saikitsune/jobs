@@ -4,48 +4,49 @@ template: job.jade
 ---
 
 
-# Saying Goodbye to Localhost
+# Help us build the development platform of the future!
 
-We are building a system that will allow everyone to say *"goodbye to
-localhost"*. Sound cool? We want to achieve this faster with your help!
+Let's give people 100s of servers, 100s of people to work with, joy of building with amazing resources at the speed of light.
+
+Let's make them say "goodbye localhost! it's been a good 20 years with you!"
 
 ## About you,
 
-* Understanding of Computer Science concepts. e.g, OOP, data structures and
-algorithms.
+* You understand Computer Science concepts OOP, data structures and
+algorithms - we don't care if it's LISP or Ruby you're good at. 
 
-* You are a poet while coding. In other words, your  code should look like a
-poem.
+* Your code is poetry. Your audience reads it with joy.
 
-* You love what you do.
+* You love what you do. This is not a job to you, it's what you'd do anyway.
 
-## You should have experience with,
+## Your technology stack should consist,
 
-* Git or other SCM tools
+* Git inside out
 
-* Build and Continuous Integration tools
+* Continuous Integration tools
 
 * NoSQL databases (Document Store, Search, Graph, KV Store)
 
-* Messaging Systems (RabbitMQ or ØMQ)
+* Messaging Systems (RabbitMQ and/or ØMQ)
 
-* Fluent in any of the programming languages (preferably CoffeeScript or Go)
+* Fluent in at least one programming language (Go & CoffeeScript are what we use the most)
 
-* Basic linux knowledge
+* Good linux knowledge (I know you're not a sysadmin)
 
 ## Ok, sound good?
 
-If this sounds like the right position for you, then show us some of your
-code in which some or all of the above technology stacks are used, along with
-links to any of the following:
+Then show us your poetry that rhymes with Go, Coffee, zmq, rmq - either you have projects using these, or you will make one and put it up.
 
-* Github repos.
+Please send us your,
 
-* Personal projects.
+* Github repos
 
-* Your blog.
+* Link to your blog if you have one.
 
-Reach us at backend-dev at koding dot com
+Keep in mind, linkedin profile or your resume mean absolutely nothing to us.
+
+
+Reach us at cihangir at koding dot com
 
 [Koding](http://koding.com)
 
