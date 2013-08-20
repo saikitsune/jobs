@@ -13,7 +13,7 @@ Let's make them say "goodbye localhost! it's been a good 20 years with you!"
 ## About you,
 
 * You understand Computer Science concepts OOP, data structures and
-algorithms - we don't care if it's LISP or Ruby you're good at. 
+algorithms - we don't care if it's LISP or Ruby that you're good at. 
 
 * Your code is poetry. Your audience reads it with joy.
 
@@ -25,7 +25,7 @@ algorithms - we don't care if it's LISP or Ruby you're good at.
 
 * Continuous Integration tools
 
-* NoSQL databases (Document Store, Search, Graph, KV Store)
+* NoSQL and Graph databases (Document Store, Search, Graph, KV Store)
 
 * Messaging Systems (RabbitMQ and/or ØMQ)
 
@@ -35,7 +35,9 @@ algorithms - we don't care if it's LISP or Ruby you're good at.
 
 ## Ok, sound good?
 
-Then show us your poetry that rhymes with Go, Coffee, zmq, rmq - either you have projects using these, or you will make one and put it up.
+Then show us your poetry that rhymes with Go, Coffee, zmq, rmq  
+
+You should a) already have projects using these, or b) you will make some and put it up before you apply.
 
 Please send us your,
 
@@ -43,10 +45,10 @@ Please send us your,
 
 * Link to your blog if you have one.
 
-Keep in mind, linkedin profile or your resume mean absolutely nothing to us.
+Keep in mind, linkedin profile or your resume mean absolutely nothing to us (unless you think they do, your call).
 
 
-Reach us at cihangir at koding dot com
+Reach me at cihangir at koding dot com
 
 [Koding](http://koding.com)
 
