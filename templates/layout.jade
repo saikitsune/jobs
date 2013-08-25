@@ -40,6 +40,8 @@ html(lang='en')
     footer
       block footer
         section.about
+          block about_links
+            !=contents['about-links.md'].html
           block about
             !=contents['about.md'].html
       
