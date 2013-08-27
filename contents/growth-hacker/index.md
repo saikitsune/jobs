@@ -5,7 +5,7 @@ template: job.jade
 
 # Reaching 1 Million Users
 
-You are to help Koding each 1 Million Users. Yes, that's your assignment.
+You are to help Koding reach 1 Million Users. Yes, that's your assignment.
 If you accept, read on.
 
 ## You promise,
