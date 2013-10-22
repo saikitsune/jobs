@@ -33,7 +33,7 @@ algorithms - we don't care if it's LISP or Ruby that you're good at.
 
 * Good linux knowledge (I know you're not a sysadmin)
 
-## Ok, sound good?
+## Ok, sounds good?
 
 Then show us your poetry that rhymes with Go, Coffee, zmq, rmq  
 
